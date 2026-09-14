@@ -1,0 +1,4 @@
+type: web
+name: n8n
+env: docker
+plan: free
